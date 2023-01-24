@@ -1,0 +1,657 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5f492f7f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#1.create 10 variables with your friend names?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ffe005d3",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "0126acb5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "var1=\"aslam\"\n",
+    "var2=\"hanuma\"\n",
+    "var3=\"anji\"\n",
+    "var4=\"khaleel\"\n",
+    "var5=\"mohsin\"\n",
+    "var6=\"rabbani\"\n",
+    "var7=\"waheed\"\n",
+    "var8=\"hussain\"\n",
+    "var9=\"ayub\"\n",
+    "var10=\"gouse\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5e8c684a",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "2.#create family member names"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "c0eca171",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "var1=\"yousuf\"\n",
+    "var1=\"fathima\"\n",
+    "var2=\"ayub\"\n",
+    "var3=\"ayesha\"\n",
+    "var4=\"liyakhath\"\n",
+    "var5=\"gouse\"\n",
+    "var6=\"rabbani\"\n",
+    "var7=\"shabana\"\n",
+    "var8=\"hussain\"\n",
+    "var9=\"mustafa\"\n",
+    "var10=\"basith\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c525d96b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.create 10 fav food names"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "23fbc023",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "var1=\"biryani\"\n",
+    "var2=\"chiken_biruani\"\n",
+    "var3=\"eggs\"\n",
+    "var4=\"rice\"\n",
+    "var5=\"mutton\"\n",
+    "var6=\"chilli chiken\"\n",
+    "var7=\"bhhendi\"\n",
+    "var8=\"aalu\"\n",
+    "var9=\"bazi\"\n",
+    "var10=\"bhaigan\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d6fcba1e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.color names"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "af6af0aa",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "var1=\"green\"\n",
+    "var2=\"red\"\n",
+    "var3=\"violet\"\n",
+    "var4=\"blue\"\n",
+    "var5=\"orange\"\n",
+    "var6=\"maroon\"\n",
+    "var7=\"pink\"\n",
+    "var8=\"indico\"\n",
+    "var9=\"sky blue\"\n",
+    "var10=\"white\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "892979e8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.games names"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "bb80fd2c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "gouse\n"
+     ]
+    }
+   ],
+   "source": [
+    "var1=\"cricket\"\n",
+    "var2=\"kabaddi\"\n",
+    "var3=\"waliball\"\n",
+    "var4=\"hidenseek\"\n",
+    "var5=\"football\"\n",
+    "var6=\"chess\"\n",
+    "var7=\"hockey\"\n",
+    "var8=\"playball\"\n",
+    "var9=\"suduko\"\n",
+    "var10=\"throughball\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "498e8057",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.create month names"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "7c74eca4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "var1=\"january\"\n",
+    "var2=\"february\"\n",
+    "var3=\"march\"\n",
+    "var4=\"april\"\n",
+    "var5=\"may\"\n",
+    "var6=\"june\"\n",
+    "var7=\"july\"\n",
+    "var8=\"august\"\n",
+    "var9=\"semptember\"\n",
+    "var10=\"octomber\"\n",
+    "var11=\"november\"\n",
+    "var12=\"december\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ca7142db",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.city names"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "98652d6d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "var1=\"mtm\"\n",
+    "var2=\"vijwda\"\n",
+    "var3=\"vinnakota\"\n",
+    "var4=\"hyderabad\"\n",
+    "var5=\"guntur\"\n",
+    "var6=\"pedana\"\n",
+    "var7=\"kaikalr\"\n",
+    "var8=\"gudlavalru\"\n",
+    "var9=\"mudinpali\"\n",
+    "var10=\"subbichru\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "40014ffa",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.frined names list\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "16097bcf",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "friend_names=[\"aslam\",\"waheed\",\"anji\",\"gouse\",\"hanuma\",\"param\",\"pradeep\",\"naveen\",\n",
+    "             \"kaleel\",\"raza\",\"ahmed\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "b8c774ac",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "['aslam',\n",
+       " 'waheed',\n",
+       " 'anji',\n",
+       " 'gouse',\n",
+       " 'hanuma',\n",
+       " 'param',\n",
+       " 'pradeep',\n",
+       " 'naveen',\n",
+       " 'kaleel',\n",
+       " 'raza',\n",
+       " 'ahmed']"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "friend_names"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5b4c6cd1",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.family members tuple"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "5dcf4844",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "family_members=(\"yousuf\",\"fathima\",\"ayub\",\"ayesha\",\"liyakhat\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "bb1ed902",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "('yousuf', 'fathima', 'ayub', 'ayesha', 'liyakhat')"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "family_members"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "697bce3d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.color set"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "2678a8ba",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "colors={\"red\",\"green\",\"black\",\"white\",\"maroon\",\"pink\",\"violet\",\"orange\",\"indico\",\"sky blue\"}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "64c27d43",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "{'black',\n",
+       " 'green',\n",
+       " 'indico',\n",
+       " 'maroon',\n",
+       " 'orange',\n",
+       " 'pink',\n",
+       " 'red',\n",
+       " 'sky blue',\n",
+       " 'violet',\n",
+       " 'white'}"
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "colors"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f027acf2",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.month names"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "ea42ba2c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "month_names=[1,9,10,5,3,2,7,8,6,4]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "560bc459",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "month_names.sort()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "ca43ce4a",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+      ]
+     },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "month_names"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "873e2334",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.tollywood heroes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "d07acfd4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tollywood_heroes=[\"chiru\",\"balaya\",\"nag\",\"venky\",\"powerstar\",\n",
+    "                 \"superstar\",\"ntr\",\"ramcharan\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "15761cc0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tollywood_heroes[0]=\"chiranvjeevi\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "61bae685",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tollywood_heroes[1]=\"balakrishna\"\n",
+    "tollywood_heroes[2]=\"nagarjuna\"\n",
+    "tollywood_heroes[4]=\"pawan kalyan\"\n",
+    "tollywood_heroes[5]=\"mahesh babu\"\n",
+    "tollywood_heroes[6]=\"NT rama rao\"\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "id": "0a933c4c",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "['chiranvjeevi',\n",
+       " 'balakrishna',\n",
+       " 'nagarjuna',\n",
+       " 'venky',\n",
+       " 'pawan kalyan',\n",
+       " 'mahesh babu',\n",
+       " 'NT rama rao',\n",
+       " 'ramcharan']"
+      ]
+     },
+     "execution_count": 16,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "tollywood_heroes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0596f621",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#.bollywood heroes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "d2ece8ed",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "bollywood_heroes={\"sharuk\",\"salman\",\"amir\",\"hrithik\",\"amitab\",\"akshay\",\"salman\",\n",
+    "                 \"amir\"}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "id": "d7709e6e",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "{'akshay', 'amir', 'amitab', 'hrithik', 'salman', 'sharuk'}"
+      ]
+     },
+     "execution_count": 21,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "bollywood_heroes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "202a000e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#fav breakfast item"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "id": "65c9152e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "breakfast_items=[\"upma\",\"dosa\",\"idly\",\"puri\",\"punugul\",\"roti\",\"chapati\",\n",
+    "                 \"mysoorbajji\",\"minabajji\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "id": "d031c0c5",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "['upma',\n",
+       " 'dosa',\n",
+       " 'idly',\n",
+       " 'puri',\n",
+       " 'punugul',\n",
+       " 'roti',\n",
+       " 'chapati',\n",
+       " 'mysoorbajji',\n",
+       " 'minabajji']"
+      ]
+     },
+     "execution_count": 23,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "breakfast_items"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "f01f6db2",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "my fav breakfast item is minabajji\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"my fav breakfast item is minabajji\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "343ce3c5",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "074a98b8",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5496b1ce",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7d149aa0",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+
