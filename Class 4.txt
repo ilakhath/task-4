@@ -1,0 +1,52 @@
+task 4:	
+1. What is kernel ?
+A. The kernel is the essential foundation of a computer's operating system (OS). It is the core that provides basic services for all other parts of the OS.
+
+2. Why we create kernel?
+A. The major aim of kernel is to manage communication between software i.e. user-level applications and hardware i.e., CPU and disk memory.
+
+3. What is library in python?
+A. A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in different programs.
+
+4. What is package in python?
+A. A Python module may contain several classes, functions, variables, etc. whereas a Python package can contains several module.
+
+5. What is difference between library and package in python?
+A.A library is a set of modules which makes sense to be together and that can be used in a program or another library. A package is a unit of distribution that can contain a library or an executable or both.
+
+6. how to create a my name in python jupyter(syntax)?
+A. simply pass your name in print statement ie. print(“Your name”)
+
+7. What is difference between "string" and "int" data types in python?
+A. Strings are sequences of characters that are used for conveying textual information. Ints, or integers, are whole numbers. They are used to represent numerical data, and you can do any mathematical operation (such as addition, subtraction, multiplication, and division) when working with integers.
+
+8. What is "syntax error: EOL error" in python?
+A. In Python, we need both quotation marks to get the value. If leaving one of the. quotation marks, it gives us syntax error. EOL error which means end of line, it. doesn't have a closing or a beginning tag.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+task 4(second part)
+
+15. What is function in python?
+A. A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function. A function can return data as a result.
+16. What is type function in python?
+A. The type() function is used to get the type of an object. Python type() function syntax is: type(object) type(name, bases, dict.
+
+17. what is print function in python?
+A. The print() function prints the specified message to the screen, or other standard output device. The message can be a string, or any other object, the object will be converted into a string before written to the screen.
+
+18. what is overwriting in python?
+A. verwrite describes when new information replaces old information or data. For example, in a text editor, if text was highlighted, and you pressed "a" on the keyboard all highlighted text would be replaced with the letter "a."
+
